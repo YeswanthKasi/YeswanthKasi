@@ -14,7 +14,7 @@
 
 🌱 Currently Learning  
 🔸 Advanced Android Development (Jetpack Compose, CI/CD)  
-🔸 Full-Stack Web Development (React, Node.js, Firebase)  
+🔸 Cloud Management (Google cloud Platform, Firebase)  
 🔸 AI & ML for Embedded Systems  
 🔸 SystemVerilog for Digital Design  
 
