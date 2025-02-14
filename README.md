@@ -1,6 +1,6 @@
 👋 Hey there, I'm Yeswanth Kasireddi!  
 
-🚀 Electronics & AI Enthusiast | Android & Full-Stack Developer | Innovator  
+🚀 Electronics & AI Enthusiast | Android Developer | Innovator  
 
 ---
 
