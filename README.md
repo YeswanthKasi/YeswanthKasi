@@ -41,11 +41,12 @@
 
 ✨ Let's build something amazing together! 🚀  
 
+---
 
 
 
 ###
-
+Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
